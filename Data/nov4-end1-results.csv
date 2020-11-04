@@ -1,0 +1,5 @@
+,mean,std
+Linear Regressor,0.12165,0.01318
+Random forest Regressor,0.14168,0.0186
+GradientBoosting Regressor,0.11619,0.01633
+Stacked model,0.11543,0.0165
